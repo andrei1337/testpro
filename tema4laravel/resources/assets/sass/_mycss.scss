@@ -1,0 +1,35 @@
+body{
+    background-color: #ccc !important;
+}
+
+.show{
+    margin-top: 10px;
+}
+
+.navbar{
+    margin-bottom: 40px !important;
+}
+
+.nav-item a{
+    color: #fff !important;
+    font-size: 18px !important;
+    padding: 10px !important;
+    transition: 0.3s !important;
+}
+
+.nav-item a:hover{
+    border-radius: 3px !important;
+    color: #000 !important;
+    background-color: #fff !important;
+}
+
+.content{
+    max-width: 960px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.button{
+    margin-bottom: 10px !important;
+}
+
